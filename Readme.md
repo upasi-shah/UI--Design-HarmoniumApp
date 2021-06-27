@@ -1,1 +1,1 @@
-![picture] "splash screen-1.JPG"
+![] (splash screen-1.JPG)
