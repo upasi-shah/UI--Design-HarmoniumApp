@@ -1,1 +1,1 @@
-![pic 1] (splash screen-1.JPG)
+![pic 1](splash screen-1.JPG)
